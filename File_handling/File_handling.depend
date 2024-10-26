@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697575446 source:c:\users\admin\documents\james matata\c++ programming\file_handling\opening_and_closing_file.cpp
+	<iostream>
+	<fstream>
+
+1697665384 source:c:\users\admin\documents\james matata\c++ programming\file_handling\file_opening_modes.cpp
+	<iostream>
+	<fstream>
+
+1697839175 source:c:\users\admin\documents\james matata\c++ programming\file_handling\stream_error_flags.cpp
+	<iostream>
+	<fstream>
+

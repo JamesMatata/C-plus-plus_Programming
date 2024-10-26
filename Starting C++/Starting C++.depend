@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1675504816 source:c:\users\user\onedrive\desktop\matata\c projects\starting c++\welcome.cpp
+	<iostream>
+
+1675759525 source:c:\users\user\onedrive\desktop\matata\c projects\starting c++\number swapping.cpp
+	<iostream>
+
+1675753960 source:c:\users\user\onedrive\desktop\matata\c projects\starting c++\printing numbers.cpp
+	<iostream>
+
+1675760799 source:c:\users\user\onedrive\desktop\matata\c projects\starting c++\the quadratic formula.cpp
+	<iostream>
+	<math.h>
+
+1675775837 source:c:\users\user\onedrive\desktop\matata\c projects\starting c++\sphere vovlume and surface area.cpp
+	<iostream>
+
+1675928944 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\area.cpp
+	<iostream>
+
+1675778856 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\happy valentine.cpp
+	<iostream>
+
+1675931629 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\avarage,sum,product.cpp
+	<iostream>
+
+1675932945 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\grade.cpp
+	<iostream>
+
+1675936358 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\simple calculator.cpp
+	<iostream>
+
+1675943517 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\using else if.cpp
+	<iostream>
+
+1675944929 source:c:\users\user\onedrive\desktop\melo\matata\c projects\starting c++\using switch.cpp
+	<iostream>
+
+1676013004 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\digital clock.cpp
+	<iostream>
+	<stdlib.h>
+
+1676533551 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\bills deduction.cpp
+	<iostream>
+
+1676536236 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\salary deductions.cpp
+	<iostream>
+
+1676538294 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\practical2.cpp
+	<iostream>
+
+1675753960 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\printing numbers.cpp
+	<iostream>
+
+1676538327 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\addition.cpp
+	<iostream>
+
+1676539842 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\producewfgajg.cpp
+	<iostream>
+
+1676552409 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\product and sum of a loop.cpp
+	<iostream>
+
+1676553017 source:c:\users\user\onedrive\desktop\melo\matata\c and c++ projects\starting c++\using else if2.cpp
+	<iostream>
+
